@@ -1,0 +1,8 @@
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\bin\Debug\Exemplo_polimorfismo.exe.config
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\bin\Debug\Exemplo_polimorfismo.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\bin\Debug\Exemplo_polimorfismo.pdb
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\obj\Debug\Exemplo_polimorfismo.csproj.AssemblyReference.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\obj\Debug\Exemplo_polimorfismo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\obj\Debug\Exemplo_polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\obj\Debug\Exemplo_polimorfismo.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\Exemplo_polimorfismo\Exemplo_polimorfismo\obj\Debug\Exemplo_polimorfismo.pdb

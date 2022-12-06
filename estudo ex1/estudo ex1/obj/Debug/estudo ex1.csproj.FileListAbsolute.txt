@@ -1,0 +1,8 @@
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\bin\Debug\estudo ex1.exe.config
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\bin\Debug\estudo ex1.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\bin\Debug\estudo ex1.pdb
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\obj\Debug\estudo ex1.csproj.AssemblyReference.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\obj\Debug\estudo ex1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\obj\Debug\estudo ex1.csproj.CoreCompileInputs.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\obj\Debug\estudo ex1.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\Apontamentos PSI C#\estudo ex1\estudo ex1\obj\Debug\estudo ex1.pdb
