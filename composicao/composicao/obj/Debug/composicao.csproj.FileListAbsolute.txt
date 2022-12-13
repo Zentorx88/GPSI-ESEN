@@ -1,0 +1,7 @@
+C:\Users\esen2020\source\repos\composicao\composicao\obj\Debug\composicao.csproj.AssemblyReference.cache
+C:\Users\esen2020\source\repos\composicao\composicao\obj\Debug\composicao.csproj.CoreCompileInputs.cache
+C:\Users\esen2020\source\repos\composicao\composicao\bin\Debug\composicao.exe.config
+C:\Users\esen2020\source\repos\composicao\composicao\bin\Debug\composicao.exe
+C:\Users\esen2020\source\repos\composicao\composicao\bin\Debug\composicao.pdb
+C:\Users\esen2020\source\repos\composicao\composicao\obj\Debug\composicao.exe
+C:\Users\esen2020\source\repos\composicao\composicao\obj\Debug\composicao.pdb

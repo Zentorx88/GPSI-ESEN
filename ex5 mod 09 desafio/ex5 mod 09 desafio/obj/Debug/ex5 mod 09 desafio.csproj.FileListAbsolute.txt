@@ -1,0 +1,8 @@
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\bin\Debug\ex5 mod 09 desafio.exe.config
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\bin\Debug\ex5 mod 09 desafio.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\bin\Debug\ex5 mod 09 desafio.pdb
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\obj\Debug\ex5 mod 09 desafio.csproj.AssemblyReference.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\obj\Debug\ex5 mod 09 desafio.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\obj\Debug\ex5 mod 09 desafio.csproj.CoreCompileInputs.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\obj\Debug\ex5 mod 09 desafio.exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\ex5 mod 09 desafio\ex5 mod 09 desafio\obj\Debug\ex5 mod 09 desafio.pdb

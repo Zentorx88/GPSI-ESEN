@@ -1,0 +1,8 @@
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\bin\Debug\MOD09 prático (ex4).exe.config
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\bin\Debug\MOD09 prático (ex4).exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\bin\Debug\MOD09 prático (ex4).pdb
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\obj\Debug\MOD09 prático (ex4).csproj.AssemblyReference.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\obj\Debug\MOD09 prático (ex4).csproj.SuggestedBindingRedirects.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\obj\Debug\MOD09 prático (ex4).csproj.CoreCompileInputs.cache
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\obj\Debug\MOD09 prático (ex4).exe
+C:\Users\Zentorx\Desktop\Tiago\escola\11 ano\MOD09 C#\MOD09 prático (ex4)\MOD09 prático (ex4)\obj\Debug\MOD09 prático (ex4).pdb

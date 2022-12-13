@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod 09 ex6 desafio", "mod 09 ex6 desafio\mod 09 ex6 desafio.csproj", "{E04D8DAA-2A61-4606-AC06-5C2A6FDBF0FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04D8DAA-2A61-4606-AC06-5C2A6FDBF0FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04D8DAA-2A61-4606-AC06-5C2A6FDBF0FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04D8DAA-2A61-4606-AC06-5C2A6FDBF0FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04D8DAA-2A61-4606-AC06-5C2A6FDBF0FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F45D3E9-1F1B-4189-96CB-AE7C6EB62338}
+	EndGlobalSection
+EndGlobal
